@@ -10,5 +10,5 @@
 - HTML5
 - Bootstrap 5
 - JavaScript
-- MySql
+- MySQL
 
